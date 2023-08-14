@@ -1,4 +1,4 @@
-# emotional-prototype
+# Combining GAN with reverse correlation to construct personalized facial expressions
 [Update: 14/08/2023] Our work [["Combining GAN with reverse correlation to construct personalized facial expressions"](https://)] was accepted by PloS One.
 
 Implementation can be found [here](https://github.com/yansen0508/Mental-Deep-Reverse-Engineering).
