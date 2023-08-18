@@ -1,7 +1,9 @@
 # Combining GAN with reverse correlation to construct personalized facial expressions
 [Update: 14/08/2023] This work was accepted by PloS One.
 
-Implementation can be found [here](https://github.com/yansen0508/Mental-Deep-Reverse-Engineering).
+[Implementation](https://github.com/yansen0508/Mental-Deep-Reverse-Engineering) is available now.
+
+For more information, please see the [website](https://yansen0508.github.io/emotional-prototype/).
 
 If you use this code or ideas from the paper for your research, please cite our paper:
 ```BibTeX
